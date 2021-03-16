@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+instance/
+.webassets-cache
+
+.env
+.venv
+
+.DS_Store
