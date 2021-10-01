@@ -18,6 +18,8 @@ git clone https://github.com/marko-stripe/sa-takehome-project-python && cd sa-ta
 pip3 install -r requirements.txt
 ```
 
+Rename `sample.env` to `.env` and populate it with your Stripe account's test API keys.
+
 Then run the application locally:
 
 ```

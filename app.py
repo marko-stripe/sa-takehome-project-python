@@ -1,7 +1,10 @@
 import os
 import stripe
 
+from dotenv import load_dotenv
 from flask import Flask, request, render_template
+
+load_dotenv()
 
 app = Flask(__name__,
   static_url_path='',
